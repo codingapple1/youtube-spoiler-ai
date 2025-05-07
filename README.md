@@ -12,6 +12,9 @@
 4. 유튜브 가서 사용
 <br/><br/><br/>
 
-![sample](https://github.com/user-attachments/assets/c3a357be-6578-45bc-9fe1-ec5ce00c5634)
+![sample1](https://github.com/user-attachments/assets/ca68624e-6864-4d1f-85b2-094862855f5b)
+
 <br/><br/><br/>
 라이선스: 없음
+
+

@@ -2,6 +2,17 @@
 //AI 분석기능 이용하려면 OpenAI API키 입력
 const OPENAIAPIKEY = ''
 
+// CSS 애니메이션 추가
+const styleSheet = document.createElement("style")
+styleSheet.type = "text/css"
+styleSheet.innerText = `
+  .yt-hover-btn:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+  }
+`
+document.head.appendChild(styleSheet)
+
 // 빨간 버튼 생성과 클릭시 기능
 function createButtonElement(container) {
   let btn = document.createElement('button');
